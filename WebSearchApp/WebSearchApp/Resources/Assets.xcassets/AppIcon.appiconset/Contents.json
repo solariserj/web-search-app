@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "openart-image_D1rjUtx0_1714670263072_raw.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

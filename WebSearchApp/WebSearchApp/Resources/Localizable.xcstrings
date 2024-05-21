@@ -1,0 +1,24 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Back" : {
+
+    },
+    "OK" : {
+
+    },
+    "Search" : {
+
+    },
+    "Start to search" : {
+
+    },
+    "You on top of search, you can start another search" : {
+
+    },
+    "Your request" : {
+
+    }
+  },
+  "version" : "1.0"
+}
